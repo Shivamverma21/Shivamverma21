@@ -1,16 +1,16 @@
-## Hi there 👋
+🌟 Welcome to Dev-Tech! 
+🚀 Passionate about building, learning, and exploring new tech frontiers. 
+👨‍💻 Open to collaboration on innovative projects.
 
-<!--
-**Shivamverma21/Shivamverma21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Shivam verma! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building efficient, scalable and user-friendly applications. Here's a little about me and what I do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+🔭 I’m currently working on building in-memory Databases like Redis.
+
+🌱 I’m always learning and enhancing my skills in Java Spring Boot, React, and modern backend and frontend development.
+
+⚡ Fun fact: I prefer stupid solutions and love optimizing code for performance.
+
