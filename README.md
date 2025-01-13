@@ -8,7 +8,6 @@ Hi there, I'm Shivam verma! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building efficient, scalable and user-friendly applications. Here's a little about me and what I do:
 
-🚀 About Me
 
 🔭 I’m currently working on building in-memory Databases like Redis and learning low level design patterns which could be useful to develop decoupled and scalable systems.
 
