@@ -1,5 +1,7 @@
 🌟 Welcome to Dev-Tech! 
-🚀 Passionate about building, learning, and exploring new tech frontiers. 
+
+🚀 Passionate about building, learning, and exploring new tech frontiers.
+
 👨‍💻 Open to collaboration on innovative projects.
 
 Hi there, I'm Shivam verma! 👋
@@ -8,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 🚀 About Me
 
-🔭 I’m currently working on building in-memory Databases like Redis.
+🔭 I’m currently working on building in-memory Databases like Redis and learning low level design patterns which could be useful to develop decoupled and scalable systems.
 
 🌱 I’m always learning and enhancing my skills in Java Spring Boot, React, and modern backend and frontend development.
 
