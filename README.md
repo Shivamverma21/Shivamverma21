@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Verma !!</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building efficient, scalable and user-friendly applications. Here's a little about me and what I do:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamverma21&label=Profile%20views&color=0e75b6&style=flat" alt="shivamverma21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamverma21" alt="shivamverma21" /></a> </p>
-
 - 🌱 I’m always learning and enhancing my skills in modern backend and frontend development using **C++, Java, JavaScript, Golang, Mern and Spring Boot,**
 
 - 💬 Ask me about **Spring Boot, Design Patterns and Database designs**
